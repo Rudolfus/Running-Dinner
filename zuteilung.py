@@ -2,8 +2,15 @@
 todo:   Daten einlesen
         Mailtext generieren
         Mail senden
+        Kommentare hinzufügen
+        Doc-String hinzufügen (Erklärungen der Funktionen)
 """
 
+# einzeiliger Kommentar
+"""
+Hier ist alles Kommentar, also mehrzeilig.
+Hier ist auch Kommentar.
+"""
 
 class Paar:
     def __init__(self, Partner1, Partner2, Host):
