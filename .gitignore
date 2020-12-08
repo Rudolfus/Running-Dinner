@@ -1,4 +1,5 @@
 # Diese Datei enthält Informationen darüber, welche Dateien unwichtig für das Repository auf GitHub sind.
 #
 
-.idea
+.idea/
+*.swp
